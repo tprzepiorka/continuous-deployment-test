@@ -1,4 +1,3 @@
 test:
-  override:
+  pre:
     - npm i jasmine-node -g
-    - jasmine-node spec/

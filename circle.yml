@@ -1,5 +1,6 @@
 machine:
   hosts:
+    dev.circleci.com: 127.0.0.1
     circlehost: 127.0.0.1
 
 test:
